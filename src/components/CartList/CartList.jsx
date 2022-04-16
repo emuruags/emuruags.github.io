@@ -42,9 +42,9 @@ function CartList( { generateOrder, saveOrder, updateItemStock} ) {
         setisFinishOrder(false) 
     }
 
-        const finishOrder = () => {
-            saveOrder();
-            updateItemStock();  
+    const finishOrder = () => {
+        saveOrder();
+        updateItemStock();  
     }
 
     const emptyCartFunc = () => {
