@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/emuruags.github.io/static/css/main.04179b6f.css",
+    "main.js": "/emuruags.github.io/static/js/main.edbb66c8.js",
+    "static/js/787.3dab29b6.chunk.js": "/emuruags.github.io/static/js/787.3dab29b6.chunk.js",
+    "static/media/logo.jpg": "/emuruags.github.io/static/media/logo.d3a7873fff34b5c2f4a5.jpg",
+    "static/media/white-shopping-cart-icon.jpg": "/emuruags.github.io/static/media/white-shopping-cart-icon.befe355adf0c662b6f16.jpg",
+    "index.html": "/emuruags.github.io/index.html",
+    "main.04179b6f.css.map": "/emuruags.github.io/static/css/main.04179b6f.css.map",
+    "main.edbb66c8.js.map": "/emuruags.github.io/static/js/main.edbb66c8.js.map",
+    "787.3dab29b6.chunk.js.map": "/emuruags.github.io/static/js/787.3dab29b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.edbb66c8.js"
+  ]
+}
