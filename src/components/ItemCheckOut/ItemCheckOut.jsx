@@ -8,12 +8,12 @@ function ItemCheckOut() {
     <>
         <div>
           <Link to='/CartList'>
-            <Button className='mt-2 ' size="sm" variant="outline-secondary" onClick={console.log('ir a cart')}> Finalizar Compra </Button>
+            <Button className='mt-2 ' size="sm" variant="outline-secondary" > Finalizar Compra </Button>
           </Link>
         </div>
         <div>
           <Link to='/'>
-            <Button className='mt-2 ' size="sm" variant="outline-secondary" onClick={console.log('Seguir Comprando')}> Seguir Comprando </Button>
+            <Button className='mt-2 ' size="sm" variant="outline-secondary" > Seguir Comprando </Button>
           </Link>
         </div>
     </>
