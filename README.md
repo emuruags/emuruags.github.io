@@ -4,8 +4,10 @@
 [![R|React](https://firebasestorage.googleapis.com/v0/b/coderhouse-reactjs-ecommerce.appspot.com/o/img%2Flogo%2Flogo.jpg?alt=media&token=e5b8139d-aa48-4b07-8ac4-070d1b41860b)]
 ## Live Demo
 https://emuruags.github.io/
+
 OR
-ttps://emuruags.github.io/coderhouse-react.github.io/
+
+https://emuruags.github.io/coderhouse-react.github.io/
 ## Video de Funcionamiento
 https://commons.wikimedia.org/wiki/File:React-icon.svg)
 ## Descripción del proyecto
